@@ -1,6 +1,6 @@
 <?php
 
-echo "Vai Palmeiras!";
-echo "\n22";
+echo "Segue o Líder!!!";
+
 
 ?>
