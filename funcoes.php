@@ -1,13 +1,8 @@
 <?php
 
-echo "Vai toma no seu cu neegro";
- echo "gargamel macaco";
- echo "gargamel macaco";
- echo "gargamel macaco";
- echo "gargamel macaco";
- echo "gargamel macaco";
- echo "gargamel macaco";
- echo "gargamel macaco";
+function soma($num1, $num2){
+    return ($num1 +$num2);
+}
 
 
 ?>
