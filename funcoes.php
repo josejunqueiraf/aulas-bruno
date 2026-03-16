@@ -12,4 +12,8 @@ function mult($num1, $num2){
     return ($num1 * $num2);
 }
 
+function mns($num1, $num2){
+    return ($num1 - $num2);
+}
+
 ?>
